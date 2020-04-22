@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">MyGithubLink</string>
+    <string name="change_language">Change Language</string>
+    <string name="search_user">Search User</string>
+    <string name="press_back_twice">Press BACK Again To Exit</string>
+    <string name="detail_user">Detail User</string>
+    <string name="github_name">Github Name</string>
+    <string name="github_username">Github Username</string>
+    <string name="refresh_page">Refresh Page</string>
+    <string name="profile_picture">Profile Picture</string>
+    <string name="repo_text">0 Repo</string>
+    <string name="stars_text">0 Stars</string>
 </resources>

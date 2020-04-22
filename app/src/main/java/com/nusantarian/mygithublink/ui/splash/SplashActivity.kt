@@ -5,7 +5,7 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.os.Handler
 import com.nusantarian.mygithublink.R
-import com.nusantarian.mygithublink.ui.detail.MainActivity
+import com.nusantarian.mygithublink.ui.main.MainActivity
 
 class SplashActivity : AppCompatActivity() {
 

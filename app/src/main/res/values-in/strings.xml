@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyGithubLink</string>
+    <string name="change_language">Ganti Bahasa</string>
+    <string name="search_user">Cari Pengguna</string>
+    <string name="press_back_twice">Tekan KEMBALI Lagi Untuk Keluar</string>
+    <string name="detail_user">Detil Pengguna</string>
+    <string name="github_name">Nama Github</string>
+    <string name="github_username">Username Github</string>
+    <string name="refresh_page">Segarkan Halaman</string>
+    <string name="profile_picture">Foto Profil</string>
+    <string name="repo_text">0 Repo</string>
+    <string name="stars_text">0 Bintang</string>
+</resources>
